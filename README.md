@@ -1,2 +1,2 @@
 # QUARATE-ATTRITION-ANALYSIS
-The objective of this analysis is to examine employee attrition patterns within the organization using the given staff details .
+The objective of this analysis is to examine employee attrition patterns within the organization using the given staff details and by identifying key factors such as income levels, job satisfaction, and work-life balance, the goal is to uncover the primary drivers of employee attrition and provide actionable insights that can support HR in designing effective retention strategies and improving workforce stability.
