@@ -1,0 +1,12 @@
+*.pbix.bak
+.pbi/
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
